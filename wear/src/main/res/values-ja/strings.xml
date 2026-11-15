@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">トレきろく</string>
+    <string name="hello_world">こんにちは、%1$sさん！</string>
+    <string name="tile_label">テスト タイル</string>
+    <string name="complication_label">テスト コンプリケーション</string>
+</resources>
